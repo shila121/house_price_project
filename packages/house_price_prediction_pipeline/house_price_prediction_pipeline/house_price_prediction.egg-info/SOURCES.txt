@@ -1,0 +1,10 @@
+MANIFEST.in
+requirements.txt
+setup.py
+datasets/__init__.py
+house_price_prediction.egg-info/PKG-INFO
+house_price_prediction.egg-info/SOURCES.txt
+house_price_prediction.egg-info/dependency_links.txt
+house_price_prediction.egg-info/requires.txt
+house_price_prediction.egg-info/top_level.txt
+trained_models/__init__.py
